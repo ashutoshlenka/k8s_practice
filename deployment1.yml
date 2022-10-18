@@ -7,7 +7,7 @@ metadata:
     type: proxy
     author: intelliqit
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       type: proxy
