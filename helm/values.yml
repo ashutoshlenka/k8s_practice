@@ -1,0 +1,10 @@
+---
+wordpressUsername: admin
+wordpressPassword: admin
+wordpressEmail: admin@gmail.com
+wordpressFirstName: mywordpress
+wordpressLastName: application
+wordpressBlogName: myblog
+service:
+  type: LoadBalancer
+...
